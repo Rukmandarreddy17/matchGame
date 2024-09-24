@@ -1,0 +1,13 @@
+.listItem {
+  list-style-type: none;
+  width: 17%;
+  margin: 10px;
+}
+.image {
+  width: 100%;
+}
+.tabButton {
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}
